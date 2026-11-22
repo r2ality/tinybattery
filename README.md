@@ -2,6 +2,15 @@
 
 A tiny, open-source Android home-screen widget for your phone battery and connected Bluetooth devices.
 
+## Why?
+
+Probably the only truly free battery widget you'll find.
+1. Actually open source and works. Most of the free battery widgets in the Playstore have the same feature as in this app except behind a paywall, or it's source code is proprietary.
+2. Lightweight and offline
+3. Good looking
+4. Free (as in freedom)
+5. No Google dependencies.
+
 ## Features
 
 - A circular, iOS-inspired battery ring for the phone and each connected Bluetooth accessory.
