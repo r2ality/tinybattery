@@ -10,6 +10,13 @@ Probably the only truly free battery widget you'll find.
 3. Good looking
 4. Free (as in freedom)
 5. No Google dependencies.
+6. Below is an image of the widget working on LineageOS.
+
+![LineageOS demo](https://raw.githubusercontent.com/r2ality/tinybattery/refs/heads/main/screenshot/demo.png)
+
+## Quick warning
+
+The widget may take a minute to start refreshing, and then show your battery percentage.
 
 ## Features
 
