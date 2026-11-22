@@ -1,0 +1,11 @@
+<resources>
+    <!-- Use a framework theme present on every supported Android API (21+).
+         DayNight is intentionally not used here: some SDK packages omit that alias. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#6750A4</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:statusBarColor">?android:attr/colorBackground</item>
+        <item name="android:navigationBarColor">?android:attr/colorBackground</item>
+    </style>
+</resources>

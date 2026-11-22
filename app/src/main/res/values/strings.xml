@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TinyBattery</string>
+    <string name="widget_name">TinyBattery</string>
+    <string name="widget_description">Your phone and connected Bluetooth device batteries.</string>
+    <string name="widget_title">Batteries</string>
+    <string name="widget_subtitle">PHONE + ACCESSORIES</string>
+    <string name="refresh_short">Refresh</string>
+    <string name="this_phone">This phone</string>
+    <string name="phone_overview">PHONE BATTERY</string>
+    <string name="appearance_hint">Pick the surface used by your home-screen widget.</string>
+    <string name="accessory_summary_empty">No accessories connected yet</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="phone_ring_description">Phone battery percentage ring</string>
+    <string name="device_battery_ring_description">Bluetooth device battery percentage ring</string>
+    <string name="no_devices_count">0 devices</string>
+    <string name="charging">Charging</string>
+    <string name="fully_charged">Fully charged</string>
+    <string name="phone_battery">Phone battery</string>
+    <string name="bluetooth_connected">Bluetooth · Connected</string>
+    <string name="permission_hint">Allow Bluetooth access in TinyBattery to show connected devices.</string>
+    <string name="no_devices">No Bluetooth devices connected</string>
+    <string name="setup_intro">Your phone and Bluetooth gear, all charged up at a glance.</string>
+    <string name="appearance">Widget style</string>
+    <string name="theme_material_you">Material You</string>
+    <string name="theme_glass">Glass</string>
+    <string name="bluetooth_access">Connected accessories</string>
+    <string name="allow_bluetooth">Allow Bluetooth access</string>
+    <string name="refresh_now">Refresh devices now</string>
+    <string name="refreshing">Checking connected devices…</string>
+    <string name="permission_required">Bluetooth permission is needed to list connected devices.</string>
+    <string name="permission_granted">Bluetooth access is allowed.</string>
+    <string name="bluetooth_ready">Found %1$d connected device(s).</string>
+    <string name="privacy_note">Private by design. No internet, accounts, ads or tracking. Battery percentages are shown only when Android and the accessory provide them.</string>
+    <plurals name="accessory_summary">
+        <item quantity="one">%1$d accessory connected</item>
+        <item quantity="other">%1$d accessories connected</item>
+    </plurals>
+    <plurals name="connected_count">
+        <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d devices</item>
+    </plurals>
+    <plurals name="more_devices">
+        <item quantity="one">+ %1$d more device</item>
+        <item quantity="other">+ %1$d more devices</item>
+    </plurals>
+</resources>
