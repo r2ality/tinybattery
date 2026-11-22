@@ -2,6 +2,8 @@
 
 A tiny, open-source Android home-screen widget for your phone battery and connected Bluetooth devices.
 
+You can download it [here](https://github.com/r2ality/tinybattery/releases) or tapping on the 'releases' page.
+
 ## Why?
 
 Probably the only truly free battery widget you'll find.
@@ -10,7 +12,7 @@ Probably the only truly free battery widget you'll find.
 3. Good looking
 4. Free (as in freedom)
 5. No Google dependencies.
-6. Below is an image of the widget working on LineageOS.
+7. Below is an image of the widget working on LineageOS.
 
 ![LineageOS demo](https://raw.githubusercontent.com/r2ality/tinybattery/refs/heads/main/screenshot/demo.png)
 
